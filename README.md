@@ -50,4 +50,4 @@ Adjust the serial port (`-p`) to your system.
 The firmware advertises BTHome service data (`0xFCD2`) so HA can consume it via BTHome/BLE proxy setups.
 
 ## License
-No explicit license file is currently included.
+This project is licensed under the **MIT License**. See [`LICENSE`](./LICENSE).
